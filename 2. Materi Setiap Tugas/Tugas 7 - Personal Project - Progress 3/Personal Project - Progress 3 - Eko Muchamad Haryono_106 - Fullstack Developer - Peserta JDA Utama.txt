@@ -1,0 +1,28 @@
+===============================
+
+Personal Project - Progress 3
+
+Nama Peserta : Eko Muchamad Haryono
+Nomor : 106
+Kelas : Fullstack Developer
+Judul : Sistem Informasi ApoTrack
+
+Fitur & Progress :
+- Landing Page, Sebagai Informasi & Penjelasan Tentang Beberapa Produk Dari Apotik (60%)
+- Auth, Login Sudah Dibuat & Beberapa Data Dummy Untuk Login Sudah Di Intergrasi Dengan Seeder, Namun Middleware Di Rencanakan Di Pasang Setelah Crud Admin Panel Selesai (50%)
+- Auth, Merencanakan Fitur Role Antara Petugas Apotik Dengan Onwer
+- Melakukan Intergrasi Database Dengan Laravel (100%)
+
+- Admin Panel :
+	- Obat (Masih Pengerjaan Layouting Dahulu (40%))
+	- Pelanggan (Masih Pengerjaan Layouting Dahulu (40%))
+	- Metode Pembayaran (Masih Pengerjaan Layouting Dahulu (40%))
+	- Transaksi (Masih Belum Di Mulai (0%))
+	- Detail Transaksi (Masih Belum Di Mulai (40%))
+	- Membuat Database Dengan Migration (100%)
+	- Memulai Membuat Crud Pada Sistem Apotik (30%))
+	- Melakukan Intergrasi Relasi Pada Fungsi Model (30%)
+
+Total Progression Menurut Pribadi : 65%
+
+	
